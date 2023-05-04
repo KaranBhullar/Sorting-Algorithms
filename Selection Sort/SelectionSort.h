@@ -5,7 +5,8 @@
 
 class SelectionSort {
     public:
-        void sort(int*);
+        int* sort(int*, int);
+        void swap(int*, int*);
     private:
 
 };
